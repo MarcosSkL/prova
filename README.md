@@ -16,7 +16,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-#### *Prova Prática, curso ADS (Análise e Desenvolvimento de Sistemas) feito em sala de Aula, realizado no Centro Universitário Iesb (Instituto de Educação Superior de Brasília). 
+#### *Prova Prática, curso ADS (Análise e Desenvolvimento de Sistemas) feito em sala de Aula, realizado no Centro Universitário IESB (Instituto de Educação Superior de Brasília). 
 
 
 #### Criar um projeto chamado prova
