@@ -1,3 +1,5 @@
+=> Projeto criado para realização de atividades práticas.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -14,4 +16,4 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-#### *Prova Prática feito em sala de Aula
+#### *Prova Prática, curso ADS (Análise e Desenvolvimento de Sistemas) feito em sala de Aula, realizado no Centro Universitário Iesb (Instituto de Educação Superior de Brasília). 
